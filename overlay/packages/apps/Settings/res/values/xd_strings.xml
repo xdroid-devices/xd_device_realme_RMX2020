@@ -10,7 +10,7 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
 <!-- xd. About Phone --> 
-    <string name="xd_device_name_summary">Realme C3</string>
+    <string name="xd_device_name_summary">Realme Monet</string>
     <string name="xd_chipset_type_summary">Mediatek Helio G70</string>
     <string name="xd_gpu_summary">Mali-52</string>
     <string name="xd_camera_mp_summary">12MP+2MP+2MP Triple Camera</string>

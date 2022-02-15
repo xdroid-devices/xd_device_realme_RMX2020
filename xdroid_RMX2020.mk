@@ -30,7 +30,7 @@ XDROID_MAINTAINER := Arthurleywin
 PRODUCT_NAME := xdroid_RMX2020
 PRODUCT_DEVICE := RMX2020
 PRODUCT_BRAND := realme
-PRODUCT_MODEL := realme C3
+PRODUCT_MODEL := realme Monet
 PRODUCT_MANUFACTURER := realme
 
 # Build info
